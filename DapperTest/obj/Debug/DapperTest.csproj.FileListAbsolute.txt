@@ -1,0 +1,12 @@
+C:\Users\Betsayda\source\repos\DapperTest\DapperTest\bin\Debug\DapperTest.exe.config
+C:\Users\Betsayda\source\repos\DapperTest\DapperTest\bin\Debug\DapperTest.exe
+C:\Users\Betsayda\source\repos\DapperTest\DapperTest\bin\Debug\DapperTest.pdb
+C:\Users\Betsayda\source\repos\DapperTest\DapperTest\bin\Debug\Dapper.dll
+C:\Users\Betsayda\source\repos\DapperTest\DapperTest\bin\Debug\Dapper.xml
+C:\Users\Betsayda\source\repos\DapperTest\DapperTest\obj\Debug\DapperTest.csprojAssemblyReference.cache
+C:\Users\Betsayda\source\repos\DapperTest\DapperTest\obj\Debug\DapperTest.csproj.CoreCompileInputs.cache
+C:\Users\Betsayda\source\repos\DapperTest\DapperTest\obj\Debug\DapperTest.csproj.CopyComplete
+C:\Users\Betsayda\source\repos\DapperTest\DapperTest\obj\Debug\DapperTest.exe
+C:\Users\Betsayda\source\repos\DapperTest\DapperTest\obj\Debug\DapperTest.pdb
+C:\Users\Betsayda\source\repos\DapperTest\DapperTest\bin\Debug\MicroOrm.Pocos.SqlGenerator.dll
+C:\Users\Betsayda\source\repos\DapperTest\DapperTest\bin\Debug\MicroOrm.Pocos.SqlGenerator.pdb
